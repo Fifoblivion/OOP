@@ -1,3 +1,2 @@
 # learngit
-LOL YEAY
-hahah gayyyy
+Hahahaha
